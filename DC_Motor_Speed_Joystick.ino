@@ -1,4 +1,6 @@
 /*
+ * Save as DC_Motor_Speed_Joystick.ino
+ *
  * Uses L293D to control speed and direction of motor
  * follows X-Axis input of joystick
 */
